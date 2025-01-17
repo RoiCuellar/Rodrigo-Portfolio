@@ -149,4 +149,10 @@ img {
     /* Adjust footer paragraph margin on smaller screens */
     margin: 5px 0;
   }
+
+  /* styles.css */
+  #images-description {
+    margin-top: 20px; /* Ajusta este valor según sea necesario */
+  }
+
 }
