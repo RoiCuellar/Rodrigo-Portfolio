@@ -2,22 +2,23 @@ import "./style.css";
 import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
-const cubes = [
-  "./cubeDrawings/cube1.webp",
-  "./cubeDrawings/cube2.webp",
-  "./cubeDrawings/cube3.webp",
-  "./cubeDrawings/cube4.webp",
-];
-
-const trees = [
+const collages = [
   "./treeDrawings/tree1.jpg",
   "./treeDrawings/tree2.jpg",
   "./treeDrawings/tree3.jpg",
   "./treeDrawings/tree4.jpg",
 ];
 
-const casinos = [
+const series = [
+  "./treeDrawings/tree1.jpg",
+  "./treeDrawings/tree2.jpg",
+  "./treeDrawings/tree3.jpg",
+  "./treeDrawings/tree4.jpg",
+];
+
+const sources = [
   "./images/casino.jpg",
+  "./images/moon.jpg",
 ];
 
 document.querySelector("#app").innerHTML = `
@@ -29,15 +30,15 @@ document.querySelector("#app").innerHTML = `
 
     <section id="projects">
       <div id="project-row">
-      Model 1
+      1st Section
         <div class="three-model">
           <div id="model1"></div>
         </div>
         <div id="images-description">
           <div id="images">
-            ${casinos
+            ${collages
               .map(
-                (images, index) => `<img src="${images}" alt="cube${index + 1}" />`
+                (collage, index) => `<img src="${collage}" alt="image${index + 1}" />`
               )
               .join("")}
           </div>
@@ -46,16 +47,15 @@ document.querySelector("#app").innerHTML = `
       </div>
 
       <div id="project-row">
-      Model 2
+      2nd Section
         <div class="three-model">
           <div id="model2"></div>
         </div>
         <div id="images-description">
           <div id="images">
-            ${trees
+            ${series
               .map(
-                (trees, index) =>
-                  `<img src="${trees}" alt="tree${index + 1}" />`
+                (serie, index) => `<img src="${serie}" alt="tree${index + 1}" />`
               )
               .join("")}
           </div>
@@ -64,15 +64,15 @@ document.querySelector("#app").innerHTML = `
       </div>
 
       <div id="project-row">
-      Model 3
+      3rd Section
         <div class="three-model">
           <div id="model3"></div>
         </div>
         <div id="images-description">
           <div id="images">
-            ${cubes
+            ${sources
               .map(
-                (cube, index) => `<img src="${cube}" alt="cube${index + 1}" />`
+                (source, index) => `<img src="${source}" alt="image${index + 1}" />`
               )
               .join("")}
           </div>
