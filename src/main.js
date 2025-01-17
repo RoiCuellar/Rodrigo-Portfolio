@@ -20,7 +20,7 @@ const sources = [
   "./images/casino.jpg",
   "./images/moon.jpg",
   "./images/wheel.jpg",
-  "./images/firework.jpg",
+  "./images/rusa.jpg",
   "./images/train.jpg"
 ];
 
