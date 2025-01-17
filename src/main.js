@@ -44,7 +44,7 @@ document.querySelector("#app").innerHTML = `
               )
               .join("")}
           </div>
-          <h4 id="description">A cubic 3D model is a geometric representation of a cube, consisting of six equal square faces joined at right angles. Each edge of the cube is of equal length, forming a symmetrical, rigid structure. The model can be textured, colored, or transparent, and it may include variations such as beveled edges or hollow interiors, depending on its intended purpose in design, animation, or engineering.</h4>
+          <h4 id="description"> Creating this cadavre exquisite was a new and funny experience for me. I started with a exploration of the concept and various styles/methods before deciding to base mine on a city I find similar to Las Vegas. I focused on removing irrelevant elements and replacing it for stuff that resonate with me, like ariplanes and trains for travel, a roller coaster and ferris wheel for amusement, towering for amazing skyscrapers, and beautifil moon, etc. This process taught me how to merge diverse personal elements into a cohesive base of images, but more important, it challenged me to use codes for creating a portfolio, this experience was stressful and rewarding. Finally, I discovered that many of my personal interests are interconnected and could really coexist in one space. </h4>
         </div>
       </div>
 
