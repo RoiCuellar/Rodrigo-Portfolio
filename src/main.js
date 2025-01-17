@@ -19,6 +19,7 @@ const series = [
 const sources = [
   "./images/casino.jpg",
   "./images/moon.jpg",
+  "./images/wheel.jpg",
 ];
 
 document.querySelector("#app").innerHTML = `
