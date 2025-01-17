@@ -79,25 +79,10 @@ document.querySelector("#app").innerHTML = `
               .join("")}
           </div>
           <h4 id="description">
-            Image 1. Alisa, A. (n.d.). Jackpot Beefee casino [Image]. Pinterest. 
-            <a href="https://ca.pinterest.com/pin/950611433849087355/" target="_blank" rel="noopener noreferrer">
-              https://ca.pinterest.com/pin/950611433849087355/
-            </a>
-            <br>
-            Image 2. Dreamstime. (2024). Vector Full Moon [Image]. Pinterest. 
-            <a href="https://ca.pinterest.com/pin/619667230005328777/" target="_blank" rel="noopener noreferrer">
-              https://ca.pinterest.com/pin/619667230005328777/
-            </a>
-            <br>
-            Image 3. Allana. (2024). [Image]. Pinterest. 
-            <a href="https://ca.pinterest.com/pin/950611433849093575/" target="_blank" rel="noopener noreferrer">
-              https://ca.pinterest.com/pin/950611433849093575/
-            </a>
-            <br>
-            Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. 
-            <a href="https://ca.pinterest.com/pin/950611433849093736/" target="_blank" rel="noopener noreferrer">
-              https://ca.pinterest.com/pin/950611433849093736/
-            </a>
+            Image 1. Alisa, A. (n.d.). Jackpot Beefee casino [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849087355/. <br> 
+            Image 2. Dreamstime. (2024). Vector Full Moon [Image]. Pinterest. https://ca.pinterest.com/pin/619667230005328777/. <br>
+            Image 3. Allana. (2024). [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093575/. <br>
+            Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093736/.
           </h4>
           </div>
       </div>
@@ -117,6 +102,6 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-createThreeScene("#model1", "/3DModels/project1/final.jpg");
+createThreeScene("#model1", "/3DModels/project1/cube.obj");
 createThreeScene("#model2", "/3DModels/project2/tree.obj");
 createThreeScene("#model3", "/3DModels/project3/cottage.obj");
