@@ -2,7 +2,7 @@
 
 const data = {
     name: "Rodrigo Cuellar Alonso",
-    bio: "Undergraduate Student at University of Calgary.",
+    bio: "Designing a brighter tomorrow at the University of Calgary.",
     contact: {
         email: "rodrigo.cuellaralons@ucagary.ca",
         phone: "+15878372440",
