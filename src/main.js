@@ -21,6 +21,7 @@ const sources = [
   "./images/moon.jpg",
   "./images/wheel.jpg",
   "./images/firework.jpg",
+  "./images/train.jpg"
 ];
 
 document.querySelector("#app").innerHTML = `
