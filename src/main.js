@@ -20,7 +20,7 @@ const sources = [
   "./images/casino.jpg",
   "./images/moon.jpg",
   "./images/wheel.jpg",
-  "./images/fireworks.jpg",
+  "./images/firework.jpg",
 ];
 
 document.querySelector("#app").innerHTML = `
