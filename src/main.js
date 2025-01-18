@@ -34,7 +34,7 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       1st Section
         <div class="three-model">
-          <img src="./final/final.jpg" id="model1" alt="1st Section Image" />
+          <img src="./final/final.jpg" id="1st" alt="1st Section Image" />
         </div>
         <div id="images-description">
           <div id="images">
@@ -72,11 +72,18 @@ document.querySelector("#app").innerHTML = `
         </div>
         <div id="images-description">
           <div id="images">
-            ${sources
-              .map(
-                (source, index) => `<img src="${source}" alt="image${index + 1}" />`
-              )
-              .join("")}
+            <a href="https://ca.pinterest.com/pin/950611433849087355/" target="_blank">
+              <img src="./images/casino.jpg" alt="casino" />
+            </a>
+            <a href="https://example.com/page2" target="_blank">
+              <img src="./cubeDrawings/cube2.webp" alt="cube2" />
+            </a>
+            <a href="https://example.com/page3" target="_blank">
+              <img src="./cubeDrawings/cube3.webp" alt="cube3" />
+            </a>
+            <a href="https://example.com/page4" target="_blank">
+              <img src="./cubeDrawings/cube4.webp" alt="cube4" />
+            </a>
           </div>
           <h4 id="description">
             Image 1. Alisa, A. (n.d.). Jackpot Beefee casino [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849087355/. <br> 
