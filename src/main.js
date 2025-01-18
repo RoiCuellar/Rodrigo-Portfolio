@@ -75,14 +75,14 @@ document.querySelector("#app").innerHTML = `
             <a href="https://ca.pinterest.com/pin/950611433849087355/" target="_blank">
               <img src="./images/casino.jpg" alt="casino" />
             </a>
-            <a href="https://example.com/page2" target="_blank">
-              <img src="./cubeDrawings/cube2.webp" alt="cube2" />
+            <a href="https://ca.pinterest.com/pin/619667230005328777/" target="_blank">
+              <img src="./images/moon.jpg" alt="moon" />
             </a>
-            <a href="https://example.com/page3" target="_blank">
-              <img src="./cubeDrawings/cube3.webp" alt="cube3" />
+            <a href="https://ca.pinterest.com/pin/950611433849093575/" target="_blank">
+              <img src="./images/wheel.jpg" alt="wheel" />
             </a>
-            <a href="https://example.com/page4" target="_blank">
-              <img src="./cubeDrawings/cube4.webp" alt="cube4" />
+            <a href="https://ca.pinterest.com/pin/950611433849093736/" target="_blank">
+              <img src="./images/train.jpg" alt="train" />
             </a>
           </div>
           <h4 id="description">
