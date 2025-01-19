@@ -87,6 +87,11 @@ document.querySelector("#app").innerHTML = `
         </div>
         <div id="images-description">
           <div id="images"
+          ${series
+              .map(
+                (serie, index) => `<img src="${serie}" alt="tree${index + 1}" />`
+              )
+              .join("")}
           </h4>
           </div>
       </div>
@@ -107,6 +112,6 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-createThreeScene("#model1", "/3DModels/project1/final.jpg");
-createThreeScene("#model2", "/3DModels/project2/tree.obj");
-createThreeScene("#model3", "/3DModels/project3/cottage.obj");
+//createThreeScene("#model1", "/3DModels/project1/final.jpg");
+//createThreeScene("#model2", "/3DModels/project2/tree.obj");
+//createThreeScene("#model3", "/3DModels/project3/cottage.obj");
