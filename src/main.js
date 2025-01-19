@@ -60,6 +60,7 @@ document.querySelector("#app").innerHTML = `
         </div>
       </div>
 
+      ${/* Model 2 comment 
       <div id="project-row">
       2nd Section
         <div class="three-model">
@@ -76,7 +77,9 @@ document.querySelector("#app").innerHTML = `
           <h4 id="description">A 3D tree model is a geometric representation of a tree, featuring a trunk, branches, and foliage. The trunk is typically cylindrical, with textured bark, while the branches extend outward to support leaves or a canopy. It may include roots or flowers for added detail.</h4>
         </div>
       </div>
+      */""}
 
+      ${/* Model 3 comment 
       <div id="project-row">
       3rd Section
         <div class="three-model">
@@ -87,6 +90,7 @@ document.querySelector("#app").innerHTML = `
           </h4>
           </div>
       </div>
+      */""}
     </section>
 
     <ul id="footer-items">
