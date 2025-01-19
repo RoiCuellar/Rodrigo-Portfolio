@@ -2,20 +2,6 @@ import "./style.css";
 import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
-const collages = [
-  "./treeDrawings/tree1.jpg",
-  "./treeDrawings/tree2.jpg",
-  "./treeDrawings/tree3.jpg",
-  "./treeDrawings/tree4.jpg",
-];
-
-const series = [
-  "./treeDrawings/tree1.jpg",
-  "./treeDrawings/tree2.jpg",
-  "./treeDrawings/tree3.jpg",
-  "./treeDrawings/tree4.jpg",
-];
-
 const sources = [
   "./images/casino.jpg",
   "./images/moon.jpg",
@@ -48,7 +34,7 @@ document.querySelector("#app").innerHTML = `
         </div>
       </div>
 
-      <div id="project-row">
+      ${/*<div id="project-row">
       2nd Section
         <div class="three-model">
           <div id="model2"></div>
@@ -64,7 +50,9 @@ document.querySelector("#app").innerHTML = `
           <h4 id="description">A 3D tree model is a geometric representation of a tree, featuring a trunk, branches, and foliage. The trunk is typically cylindrical, with textured bark, while the branches extend outward to support leaves or a canopy. It may include roots or flowers for added detail.</h4>
         </div>
       </div>
+      */""}
 
+      ${/*
       <div id="project-row">
       3rd Section
         <div class="three-model">
@@ -93,6 +81,7 @@ document.querySelector("#app").innerHTML = `
           </h4>
           </div>
       </div>
+      */""}
     </section>
 
     <ul id="footer-items">
@@ -110,5 +99,5 @@ document.querySelector("#app").innerHTML = `
 
 // Create three.js scenes for each
 createThreeScene("#model1", "/3DModels/project1/final.jpg");
-createThreeScene("#model2", "/3DModels/project2/tree.obj");
-createThreeScene("#model3", "/3DModels/project3/cottage.obj");
+//createThreeScene("#model2", "/3DModels/project2/tree.obj");
+//createThreeScene("#model3", "/3DModels/project3/cottage.obj");
