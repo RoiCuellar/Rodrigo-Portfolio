@@ -37,7 +37,7 @@ document.querySelector("#app").innerHTML = `
           <img src="./final/final.jpg" id="model1" alt="1st Section Image" />
         </div>
         <div id="images-description">
-         <div id="images">
+          <div id="images">
             <a href="https://ca.pinterest.com/pin/950611433849087355/" target="_blank">
               <img src="./images/casino.jpg" alt="casino" />
             </a>
@@ -56,6 +56,7 @@ document.querySelector("#app").innerHTML = `
             Image 2. Dreamstime. (2024). Vector Full Moon [Image]. Pinterest. https://ca.pinterest.com/pin/619667230005328777/. <br>
             Image 3. Allana. (2024). [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093575/. <br>
             Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093736/.
+          </div>
         </div>
       </div>
 
@@ -82,25 +83,7 @@ document.querySelector("#app").innerHTML = `
           <div id="model3"></div>
         </div>
         <div id="images-description">
-          <div id="images">
-            <a href="https://ca.pinterest.com/pin/950611433849087355/" target="_blank">
-              <img src="./images/casino.jpg" alt="casino" />
-            </a>
-            <a href="https://ca.pinterest.com/pin/619667230005328777/" target="_blank">
-              <img src="./images/moon.jpg" alt="moon" />
-            </a>
-            <a href="https://ca.pinterest.com/pin/950611433849093575/" target="_blank">
-              <img src="./images/wheel.jpg" alt="wheel" />
-            </a>
-            <a href="https://ca.pinterest.com/pin/950611433849093736/" target="_blank">
-              <img src="./images/train.jpg" alt="train" />
-            </a>
-          </div>
-          <h4 id="description">
-            Image 1. Alisa, A. (n.d.). Jackpot Beefee casino [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849087355/. <br> 
-            Image 2. Dreamstime. (2024). Vector Full Moon [Image]. Pinterest. https://ca.pinterest.com/pin/619667230005328777/. <br>
-            Image 3. Allana. (2024). [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093575/. <br>
-            Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093736/.
+          <div id="images"
           </h4>
           </div>
       </div>
