@@ -32,7 +32,7 @@ document.querySelector("#app").innerHTML = `
 
     <section id="projects">
       <div id="project-row">
-      1st Section
+      Assignment 1
         <div class="three-model">
           <img src="./final/final.jpg" id="model1" alt="1st Section Image" />
         </div>
