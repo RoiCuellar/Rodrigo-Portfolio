@@ -60,12 +60,12 @@ document.querySelector("#app").innerHTML = `
           <h4 id="description">
             Crafting this cadavre exquisite was a funny experience, it stared by analyzing and understanding this new concept. Then I blended personal interests into a cohesive vision. I replaced irrelevant elements of the original idea with ones that resonate with me, like airplanes and trains for travel, a roller coaster and ferris wheel for funny, casino for entretainment, towering for architecture style, and a beautiful night with a moon and fireworks. This idea reflects my life since 2021, where I frequently travel - especially back to my home in Mexico- to enjoy immense fun and the opportunity to immerse myself in activities I love. However, it also captures the opposite feeling of leaving behing those utopian moments of happiness and relaxation to return to the reality of everyday life. This design process revealed how most of my interest are related in a spot, showing they could coexist in on space. From this assignment I learned it is important to enjoy those joy moments while understanding everything ends and we need to face the future and the challenges with a good face and hope for a better tomorrow. <br>  
             <br>
-            Image 1. Alisa, A. (n.d.). Jackpot Beefee casino [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849087355/. <br> 
-            Image 2. Dreamstime. (2024). Vector Full Moon [Image]. Pinterest. https://ca.pinterest.com/pin/619667230005328777/. <br>
-            Image 3. Allana. (2024). [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093575/. <br>
-            Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093736/. <br>
-            Image 5. Ultimaterollercoaster (n.d.) Rocket Coaster [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093781/. <br>
-            Image 6. rawpixel. (n.d.). Png of Fireworks [Image]. Pinterest. https://ca.pinterest.com/pin/883620389396784307/. 
+            - Image 1. Alisa, A. (n.d.). Jackpot Beefee casino [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849087355/. <br> 
+            - Image 2. Dreamstime. (2024). Vector Full Moon [Image]. Pinterest. https://ca.pinterest.com/pin/619667230005328777/. <br>
+            - Image 3. Allana. (2024). [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093575/. <br>
+            - Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093736/. <br>
+            - Image 5. Ultimaterollercoaster (n.d.) Rocket Coaster [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093781/. <br>
+            - Image 6. rawpixel. (n.d.). Png of Fireworks [Image]. Pinterest. https://ca.pinterest.com/pin/883620389396784307/. 
           </div>
         </div>
       </div>
