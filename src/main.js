@@ -58,6 +58,7 @@ document.querySelector("#app").innerHTML = `
             </a>
             <a href="https://travelmexicosolo.com/meanings-of-the-mexican-flag/" target="_blank">
               <img src="./images/mex.jpg" alt="mex" />
+            </a>
           </div>
           <h4 id="description">
             1. Manifesto: <br>
