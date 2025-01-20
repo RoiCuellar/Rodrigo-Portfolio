@@ -73,7 +73,8 @@ document.querySelector("#app").innerHTML = `
             - Image 3. Allana. (2024). [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093575/. <br>
             - Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093736/. <br>
             - Image 5. Ultimaterollercoaster (n.d.) Rocket Coaster [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093781/. <br>
-            - Image 6. rawpixel. (n.d.). Png of Fireworks [Image]. Pinterest. https://ca.pinterest.com/pin/883620389396784307/. 
+            - Image 6. rawpixel. (n.d.). Png of Fireworks [Image]. Pinterest. https://ca.pinterest.com/pin/883620389396784307/. <br>
+            - Image 7. Shelley. (2024). Meanings of Mexican Flag. Travel Mexico-Solo. https://travelmexicosolo.com/meanings-of-the-mexican-flag/. <br>
           </div>
         </div>
       </div>
