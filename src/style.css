@@ -130,7 +130,7 @@ img {
 #description {
   /* Center description content */
   display: flex;
-  align-items: center;
+  align-items: justify;
   height: auto;
   width: 55em;
   font-weight: 50;
