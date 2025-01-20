@@ -54,7 +54,11 @@ document.querySelector("#app").innerHTML = `
               <img src="./images/rusa.jpg" alt="rusa" />
             </a>
           </div>
-          <h4 id="description">Creating this cadavre exquisite was a new and funny experience for me. I started with a exploration of the concept and various styles/methods before deciding to base mine on a city I find similar to Las Vegas. I focused on removing irrelevant elements and replacing it for stuff that resonate with me, like ariplanes and trains for travel, a roller coaster and ferris wheel for amusement, towering for amazing skyscrapers, and beautifil moon, etc. This process taught me how to merge diverse personal elements into a cohesive base of images, but more important, it challenged me to use codes for creating a portfolio, this experience was stressful and rewarding. Finally, I discovered that many of my personal interests are interconnected and could really coexist in one space. </h4>
+          <h4 id="description">
+            Image 1. Alisa, A. (n.d.). Jackpot Beefee casino [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849087355/. <br> 
+            Image 2. Dreamstime. (2024). Vector Full Moon [Image]. Pinterest. https://ca.pinterest.com/pin/619667230005328777/. <br>
+            Image 3. Allana. (2024). [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093575/. <br>
+            Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093736/.
           </div>
         </div>
       </div>
