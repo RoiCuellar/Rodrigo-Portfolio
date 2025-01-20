@@ -96,7 +96,7 @@ h1 {
 #model1,
 #model2,
 #model3 {
-  height: 850px;
+  height: 800px;
   width: 650px;
   margin-right: 3em;
   margin-left: 6em;
@@ -132,7 +132,7 @@ img {
   display: flex;
   align-items: justify;
   height: auto;
-  width: 63em;
+  width: 64em;
   font-weight: 50;
   margin-left: 2em;
   margin-top: .2em;
