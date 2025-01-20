@@ -105,8 +105,8 @@ h1 {
 
 img {
   /* Image dimensions and margin */
-  height: 120px;
-  width: 120px;
+  height: 170px;
+  width: 150px;
   margin: 0.5em;
 }
 
@@ -132,7 +132,7 @@ img {
   display: flex;
   align-items: center;
   height: auto;
-  width: 50em;
+  width: 48em;
   font-weight: 50;
   margin-left: 2em;
   margin-top: .2em;
