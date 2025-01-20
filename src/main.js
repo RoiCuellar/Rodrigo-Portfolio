@@ -66,7 +66,8 @@ document.querySelector("#app").innerHTML = `
             <br>
             2. Critical Evaluation: <br>
             - Casino and mechanical games (ferris wheel and roller coaster) symbolize excitement and funny, capturing those moments of adrenaline I really love and that in my opinion mirror the thrill of travel and exploration. <br>
-            - The beauty of a night iluminated by city lights, fireworks, and a big moon evokes a sense of magic and relaxation. <br>
+            - The beauty of a night iluminated by city lights, and a big moon evokes a sense of magic and relaxation. <br>
+            - Mexican Flag and some Mexican decoration over the buildings and traditional fireworks represents my country. A place where I have so many good memories. <br>
             - Big skyscrapers stands as icons of urban modernity and capitalism a symbol that my town in Mexico is currently using to represent both the joy and the excitement of adventure. <br>
             - Finally, Airplanes and Trains stands as icons of hope and excitement but also as the way back of those incredible adventures to our daily life where we need to change our interest and goals like living two lives at every moment and place, in my case one in Mexico and one back in Canada. <br>
             <br>
