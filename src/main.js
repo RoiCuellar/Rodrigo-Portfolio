@@ -34,7 +34,9 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Assignment 1
         <div class="three-model">
-          <img src="./final/final.png" id="model1" alt="1st Section Image" />
+          <a href="https://ca.pinterest.com/pin/950611433849251343" target="_blank">
+            <img src="./final/final.png" id="model1" alt="Assignment 1Image" />
+          </a>
         </div>
         <div id="images-description">
           <div id="images">
