@@ -34,7 +34,7 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Assignment 1
         <div class="three-model">
-          <img src="./final/final.jpg" id="model1" alt="1st Section Image" />
+          <img src="./final/final.png" id="model1" alt="1st Section Image" />
         </div>
         <div id="images-description">
           <div id="images">
@@ -56,6 +56,8 @@ document.querySelector("#app").innerHTML = `
             <a href="https://ca.pinterest.com/pin/883620389396784307/" target="_blank">
               <img src="./images/firework.jpg" alt="fireworks" />
             </a>
+            <a href="https://travelmexicosolo.com/meanings-of-the-mexican-flag/" target="_blank">
+              <img src="./images/mex.jpg" alt="mex" />
           </div>
           <h4 id="description">
             1. Manifesto: <br>
