@@ -94,17 +94,18 @@ document.querySelector("#app").innerHTML = `
         </div>
         <div id="images-description">
           <div id="images">
-            ${series
-              .map(
-                (serie, index) => `<img src="${serie}" alt="tree${index + 1}" />`
-              )
-              .join("")}
+            <a href="https://ca.pinterest.com/pin/950611433849610611/" target="_blank">
+              <img src="./images/Pavilion.png" alt="Pavilion" />
+            </a>
+            <a href="https://ca.pinterest.com/pin/950611433849610613/" target="_blank">
+              <img src="./images/heart.png" alt="heart" />
+            </a>
+            <a href="https://ca.pinterest.com/pin/950611433849093575/" target="_blank">
+              <img src="./images/plant.png" alt="plant" />
+            </a>
           </div>
           <h4 id="description">
-            Image 1. Alisa, A. (n.d.). Jackpot Beefee casino [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849087355/. <br> 
-            Image 2. Dreamstime. (2024). Vector Full Moon [Image]. Pinterest. https://ca.pinterest.com/pin/619667230005328777/. <br>
-            Image 3. Allana. (2024). [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093575/. <br>
-            Image 4. Tetsudo, S. (n.d.). Train [Image]. Pinterest. https://ca.pinterest.com/pin/950611433849093736/.
+            Image 
           </div>
       </div>
 
