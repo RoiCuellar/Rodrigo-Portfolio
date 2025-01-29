@@ -95,10 +95,19 @@ document.querySelector("#app").innerHTML = `
         <div id="images-description">
           <div id="images">
             <a href="https://ca.pinterest.com/pin/950611433849610611/" target="_blank">
+              <img src="./1.png" alt="Pavilion1" />
+            </a>
+            <a href="https://ca.pinterest.com/pin/950611433849610611/" target="_blank">
               <img src="./images/Pavilion.png" alt="Pavilion" />
             </a>
             <a href="https://ca.pinterest.com/pin/950611433849610613/" target="_blank">
+              <img src="./images/heart2.png" alt="heart2" />
+            </a>
+            <a href="https://ca.pinterest.com/pin/950611433849610613/" target="_blank">
               <img src="./images/heart.png" alt="heart" />
+            </a>
+            <a href="https://ca.pinterest.com/pin/950611433849093575/" target="_blank">
+              <img src="./images/plant2.png" alt="plant2" />
             </a>
             <a href="https://ca.pinterest.com/pin/950611433849093575/" target="_blank">
               <img src="./images/plant.png" alt="plant" />
