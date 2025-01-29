@@ -114,7 +114,9 @@ document.querySelector("#app").innerHTML = `
             </a>
           </div>
           <h4 id="description">
-            Image 
+            Object 1. (Image 1 & 2) Simple Subdivided Pavilion. Formats used: OBJ, PLY, and STL. <br>
+            Object 2. (Image 3 & 4) Closed Volume (HEART). Formats used: FBX, OBJ, and STL. <br>
+            Object 3. (Image 4 & 5) Hybrid Character Model (PIRANHA PLANT). Formats used FBX, GLB, and OBJ <br>
           </div>
       </div>
 
