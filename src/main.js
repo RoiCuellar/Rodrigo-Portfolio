@@ -88,8 +88,8 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Assignment 02
         <div class="three-model">
-          <a href="https://ca.pinterest.com/pin/950611433849251343" target="_blank">
-            <img src="./final/final.png" id="model2" alt="Assignment 1Image" />
+          <a href="https://ca.pinterest.com/pin/950611433849707744/" target="_blank">
+            <img src="./final/3d.jpg" id="model2" alt="Assignment 1Image" />
           <a>
         </div>
         <div id="images-description">
@@ -106,10 +106,10 @@ document.querySelector("#app").innerHTML = `
             <a href="https://ca.pinterest.com/pin/950611433849610613/" target="_blank">
               <img src="./images/heart.png" alt="heart" />
             </a>
-            <a href="https://ca.pinterest.com/pin/950611433849093575/" target="_blank">
+            <a href="https://ca.pinterest.com/pin/950611433849643223/" target="_blank">
               <img src="./images/plant_2.png" alt="plant_2" />
             </a>
-            <a href="https://ca.pinterest.com/pin/950611433849093575/" target="_blank">
+            <a href="https://ca.pinterest.com/pin/950611433849643223/" target="_blank">
               <img src="./images/plant.png" alt="plant" />
             </a>
           </div>
