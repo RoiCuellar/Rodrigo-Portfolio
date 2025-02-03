@@ -125,9 +125,6 @@ document.querySelector("#app").innerHTML = `
     <ul id="footer-items">
       <li>Email: ${data.contact.email}</li>
       <li>Phone: ${data.contact.phone}</li>
-      <li>LinkedIn: <a href="${data.contact.linkedin}">${
-  data.contact.linkedin
-}</a></li>
       <li>GitHub: <a href="${data.contact.github}">${
   data.contact.github
 }</a></li>
