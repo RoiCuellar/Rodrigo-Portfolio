@@ -90,7 +90,6 @@ document.querySelector("#app").innerHTML = `
         <div class="three-model">
           <div id="model3"></div>   
         <a>
-        </div>
       </div>
       <h4 id="description">
         <br>
