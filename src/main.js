@@ -88,40 +88,10 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Assignment 02
         <div class="three-model">
-          <a href="https://ca.pinterest.com/pin/950611433849707744/" target="_blank">
-            <img src="./final/plant3.obj" id="model2" alt="Assignment 1Image" />
-          <a>
+          <div id="model1"></div>
+          <div id="model2"></div>
+          <div id="model3"></div>   
         </div>
-        <div id="images-description">
-          <div id="images">
-            <a href="https://ca.pinterest.com/pin/950611433849610611/" target="_blank">
-              <img src="./images/1.png" alt="1" />
-            </a>
-            <a href="https://ca.pinterest.com/pin/950611433849610611/" target="_blank">
-              <img src="./images/Pavilion.png" alt="Pavilion" />
-            </a>
-            <a href="https://ca.pinterest.com/pin/950611433849610613/" target="_blank">
-              <img src="./images/heart2.png" alt="heart2" />
-            </a>
-            <a href="https://ca.pinterest.com/pin/950611433849610613/" target="_blank">
-              <img src="./images/heart.png" alt="heart" />
-            </a>
-            <a href="https://ca.pinterest.com/pin/950611433849643223/" target="_blank">
-              <img src="./images/plant_2.png" alt="plant_2" />
-            </a>
-            <a href="https://ca.pinterest.com/pin/950611433849643223/" target="_blank">
-              <img src="./images/plant.png" alt="plant" />
-            </a>
-          </div>
-          <h4 id="description">
-            Object 1. (Image 1 & 2) Simple Subdivided Pavilion. Formats used: OBJ, PLY, and STL. <br>
-            Object 2. (Image 3 & 4) Closed Volume (HEART). Formats used: FBX, OBJ, and STL. <br>
-            Object 3. (Image 4 & 5) Hybrid Character Model (PIRANHA PLANT). Formats used FBX, GLB, and OBJ <br>
-            <br>
-            From Assignment 02, I learned the importance and complexities of working with different 3D modeling formats between various software, such as Blender, Rhino, and Creality Slicer Print. To achieve this task, I used various formats such as OBJ, FBX, PLY, GLB, STL, and Gcode. Experimenting with these different options helped me realize there is more than just one exporting solution and that each has unique qualities that can either enhance or limit the model capacity and future development. Knowing which format works best for each specific case will be extremely valuable in future projects at the university. It will allow me to identify and use the best tools depending on the project’s requirements, improving my design skills to be more effective.<br>
-            I also experimented and gained insight into new geometry modeling concepts and methods such as Mesh, SubD, and NURBS. To be honest, Mesh was already familiar to me, but NURBS was a particularly interesting concept. I discovered Meshes are more useful for objects with more detailed textures, while NURBS is a good technique to be more precise and in my opinion offers a broader space to experiment and refine things to add more detail or just to fix any error. For us as students, it is essential to compare and learn the distinctions between these geometry types and the applications based on the goals and current development stage.  
-            In conclusion, this assignment modified my design perspective by exposing a variety of options while crafting and strengthening my skills. It makes evident there is more than just one option and that it is important to make the right choice for the right moment/phase. Nowadays technology is a major aspect of design and architecture (the field I am particularly interested in) so I need to stay informed about the range of available tools on the different software sites, to be a more prepared and productive designer.<br>
-          </div>
       </div>
 
       ${/* Model 3 comment 
@@ -157,6 +127,6 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-//createThreeScene("#model1", "/3DModels/project1/final.jpg");
-//createThreeScene("#model2", "/3DModels/project2/tree.obj");
-//createThreeScene("#model3", "/3DModels/project3/cottage.obj");
+createThreeScene("#model1", "/3DModels/project1/simple.obj");
+createThreeScene("#model2", "/3DModels/project2/closed.obj");
+createThreeScene("#model3", "/3DModels/project3/plant3.obj");
