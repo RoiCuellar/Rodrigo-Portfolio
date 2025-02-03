@@ -89,7 +89,7 @@ document.querySelector("#app").innerHTML = `
       Assignment 02
         <div class="three-model">
           <a href="https://ca.pinterest.com/pin/950611433849707744/" target="_blank">
-            <img src="./images/3d.jpg" id="model2" alt="Assignment 1Image" />
+            <img src="./images/plant3.obj" id="model2" alt="Assignment 1Image" />
           <a>
         </div>
         <div id="images-description">
