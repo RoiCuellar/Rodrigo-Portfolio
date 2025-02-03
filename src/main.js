@@ -126,7 +126,7 @@ document.querySelector("#app").innerHTML = `
   </main>
 `;
 
-// Create three.js scenes for each
+Create three.js scenes for each
 createThreeScene("#model1", "/3DModels/project1/simple.obj");
 createThreeScene("#model2", "/3DModels/project2/closed.obj");
 createThreeScene("#model3", "/3DModels/project3/plant3.obj");
