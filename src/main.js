@@ -88,8 +88,6 @@ document.querySelector("#app").innerHTML = `
       Assignment 02
       <div id="project-row">
         <div class="three-model">
-          <div id="model1"></div>
-          <div id="model2"></div>
           <div id="model3"></div>   
         </div>
       </div>
