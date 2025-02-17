@@ -51,6 +51,7 @@ a {
 a:hover {
   /* Link hover effects */
   color: #4c6aca;
+  text-decoration: underline;
   transition: 0.2s;
 }
 
