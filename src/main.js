@@ -104,7 +104,8 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Assignment 03
         <div class="three-model">
-          <div id="model2"></div>
+            <div id="model2"></div>
+          </a>
         </div>
         <div id="image-description">
           <div id="images"
