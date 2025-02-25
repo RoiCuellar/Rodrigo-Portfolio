@@ -106,7 +106,7 @@ document.querySelector("#app").innerHTML = `
         <div class="three-model">
           <div id="model2"></div>
         </div>
-      <div id="image-description">
+        <div id="image-description">
           <div id="images"
             <a href="https://ca.pinterest.com/pin/950611433850992070" target="_blank">
               <img src="./images/diagram.jpg" alt="diagram" />
