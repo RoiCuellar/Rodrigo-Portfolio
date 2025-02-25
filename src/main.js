@@ -89,7 +89,6 @@ document.querySelector("#app").innerHTML = `
       Assignment 02
         <div class="three-model">
           <div id="model3"></div>   
-        <a>
       </div>
       <h4 id="description">
             Reflection.<br>
@@ -102,13 +101,11 @@ document.querySelector("#app").innerHTML = `
           <div>
         <div>
       <div>
- 
-    <section id="projects">  
+  
       <div id="project-row">
       Assignment 03
         <div class="three-model">
           <div id="model2"></div>
-        <a>
       </div>
       <div id="image-description">
           <div id="images"
