@@ -108,6 +108,12 @@ document.querySelector("#app").innerHTML = `
       </div>
       <div id="image-description">
           <div id="images"
+            <a href="https://ca.pinterest.com/pin/950611433849087355/" target="_blank">
+              <img src="./images/casino.jpg" alt="casino" />
+            </a>
+            <a href="https://ca.pinterest.com/pin/619667230005328777/" target="_blank">
+              <img src="./images/moon.jpg" alt="moon" />
+            </a>
           Reflection. <br>
           <br>
           During the process of creating a personal fictional object based on my Assignment 01 exquisite corpse, I experimented with different ways to combine and reshape relevant elements of an image. One of the key takeaways was learning to be more creative and design without “limitations”. Moving away from traditional design conventions encouraged me to be more curious and creative with my decisions. This new “freedom” allowed me to explore different methods and outcome possibilities, resulting in a final model that I consider captured a dynamic and distinctive expression of myself as a designer but even more, as an individual. Working on this assignment taught me that in the design field, it is essential to stay open to change and explore alternative techniques. Challenges need to be solved with creativity and out-of-the-box solutions. It is crucial to have the confidence to try new possibilities or solutions.<br>
