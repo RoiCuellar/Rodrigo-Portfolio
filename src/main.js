@@ -89,16 +89,15 @@ document.querySelector("#app").innerHTML = `
       Assignment 02
         <div class="three-model">
           <div id="model3"></div>   
-          </div>
-          <h4 id="description">
-            eflection.<br>
-            <br>
-            From Assignment 02, I learned the importance and complexities of working with different 3D modeling formats between various software, such as Blender, Rhino, and Creality Slicer Print. To achieve this task, I used various formats such as OBJ, FBX, PLY, GLB, STL, and Gcode. Experimenting with these different options helped me realize there is more than just one exporting solution and that each has unique qualities that can either enhance or limit the model capacity and future development. Knowing which format works best for each specific case will be extremely valuable in future projects at the university. It will allow me to identify and use the best tools depending on the project’s requirements, improving my design skills to be more effective.<br>
-            <br>
-            I also experimented and gained insight into new geometry modeling concepts and methods such as Mesh, SubD, and NURBS. To be honest, Mesh was already familiar to me, but NURBS was a particularly interesting concept. I discovered Meshes are more useful for objects with more detailed textures, while NURBS is a good technique to be more precise and in my opinion offers a broader space to experiment and refine things to add more detail or just to fix any error. For us as students, it is essential to compare and learn the distinctions between these geometry types and the applications based on the goals and current development stage.<br>  
-            <br>
-            In conclusion, this assignment modified my design perspective by exposing a variety of options while crafting and strengthening my skills. It makes evident there is more than just one option and that it is important to make the right choice for the right moment/phase. Nowadays technology is a major aspect of design and architecture (the field I am particularly interested in) so I need to stay informed about the range of available tools on the different software sites, to be a more prepared and productive designer. 
-          <div>
+        </div>
+        <h4 id="description">
+          Reflection.<br>
+          <br>
+          From Assignment 02, I learned the importance and complexities of working with different 3D modeling formats between various software, such as Blender, Rhino, and Creality Slicer Print. To achieve this task, I used various formats such as OBJ, FBX, PLY, GLB, STL, and Gcode. Experimenting with these different options helped me realize there is more than just one exporting solution and that each has unique qualities that can either enhance or limit the model capacity and future development. Knowing which format works best for each specific case will be extremely valuable in future projects at the university. It will allow me to identify and use the best tools depending on the project’s requirements, improving my design skills to be more effective.<br>
+          <br>
+          I also experimented and gained insight into new geometry modeling concepts and methods such as Mesh, SubD, and NURBS. To be honest, Mesh was already familiar to me, but NURBS was a particularly interesting concept. I discovered Meshes are more useful for objects with more detailed textures, while NURBS is a good technique to be more precise and in my opinion offers a broader space to experiment and refine things to add more detail or just to fix any error. For us as students, it is essential to compare and learn the distinctions between these geometry types and the applications based on the goals and current development stage.<br>  
+          <br>
+          In conclusion, this assignment modified my design perspective by exposing a variety of options while crafting and strengthening my skills. It makes evident there is more than just one option and that it is important to make the right choice for the right moment/phase. Nowadays technology is a major aspect of design and architecture (the field I am particularly interested in) so I need to stay informed about the range of available tools on the different software sites, to be a more prepared and productive designer. 
         <div>
       <div>
   
@@ -138,6 +137,6 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-//createThreeScene("#model1", "/3DModels/project1/.obj");
+createThreeScene("#model1", "/3DModels/project1/.obj");
 createThreeScene("#model2", "/3DModels/project2/po.obj");
 createThreeScene("#model3", "/3DModels/project3/objpo.obj");
