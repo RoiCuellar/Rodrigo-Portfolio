@@ -98,8 +98,8 @@ document.querySelector("#app").innerHTML = `
           I also experimented and gained insight into new geometry modeling concepts and methods such as Mesh, SubD, and NURBS. To be honest, Mesh was already familiar to me, but NURBS was a particularly interesting concept. I discovered Meshes are more useful for objects with more detailed textures, while NURBS is a good technique to be more precise and in my opinion offers a broader space to experiment and refine things to add more detail or just to fix any error. For us as students, it is essential to compare and learn the distinctions between these geometry types and the applications based on the goals and current development stage.<br>  
           <br>
           In conclusion, this assignment modified my design perspective by exposing a variety of options while crafting and strengthening my skills. It makes evident there is more than just one option and that it is important to make the right choice for the right moment/phase. Nowadays technology is a major aspect of design and architecture (the field I am particularly interested in) so I need to stay informed about the range of available tools on the different software sites, to be a more prepared and productive designer. 
-        <div>
-      <div>
+        </div>
+      </div>
   
       <div id="project-row">
       Assignment 03
@@ -119,7 +119,7 @@ document.querySelector("#app").innerHTML = `
           During the process of creating a personal fictional object based on my Assignment 01 exquisite corpse, I experimented with different ways to combine and reshape relevant elements of an image. One of the key takeaways was learning to be more creative and design without “limitations”. Moving away from traditional design conventions encouraged me to be more curious and creative with my decisions. This new “freedom” allowed me to explore different methods and outcome possibilities, resulting in a final model that I consider captured a dynamic and distinctive expression of myself as a designer but even more, as an individual. Working on this assignment taught me that in the design field, it is essential to stay open to change and explore alternative techniques. Challenges need to be solved with creativity and out-of-the-box solutions. It is crucial to have the confidence to try new possibilities or solutions.<br>
           Exploring different software (Rhino and Blender) provided me with valuable insights into the range of tools and conditions of each platform. Each one offers different features, and we as designers must understand and select the right one based on the project’s needs and limitations. One of the more relevant lessons I gained during these two assignments was working with 3D modeling, as well as how different file formats adapt to various challenges. This knowledge will be helpful in future tasks to make informed decisions, ensuring an effective and accurate result.<br>
           My final learning from these last two projects was the opportunity to practice crafting handmade paper models. To be honest, I am not particularly skilled in this area because I do not typically enjoy it. However, I accept it is essential to know some techniques such as the low poly. Now I understand the value of being able to create high-quality models that effectively represent the project’s scene. Even if it is not my favorite field of the process.
-        <div>
+        </div>
       </div>
     </section>
 
@@ -137,6 +137,6 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-createThreeScene("#model1", "/3DModels/project1/.obj");
+//createThreeScene("#model1", "/3DModels/project1/.obj");
 createThreeScene("#model2", "/3DModels/project2/po.obj");
 createThreeScene("#model3", "/3DModels/project3/objpo.obj");
