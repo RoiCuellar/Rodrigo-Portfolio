@@ -103,6 +103,7 @@ document.querySelector("#app").innerHTML = `
         <div>
       <div>
  
+    <section id="projects">  
       <div id="project-row">
       Assignment 03
         <div class="three-model">
