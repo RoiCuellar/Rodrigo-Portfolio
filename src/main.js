@@ -111,8 +111,8 @@ document.querySelector("#app").innerHTML = `
             <a href="https://ca.pinterest.com/pin/950611433850992070" target="_blank">
               <img src="./images/diagram.jpg" alt="diagram" />
             </a>
-            <a href="https://ca.pinterest.com/pin/619667230005328777/" target="_blank">
-              <img src="./images/moon.jpg" alt="moon" />
+            <a href="https://ca.pinterest.com/pin/950611433850992070" target="_blank">
+              <img src="./images/diagram.jpg" alt="diagram" />
             </a>
           Reflection. <br>
           <br>
