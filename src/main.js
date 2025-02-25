@@ -89,7 +89,7 @@ document.querySelector("#app").innerHTML = `
       Assignment 02
         <div class="three-model">
           <div id="model3"></div>   
-        </div>
+        <div>
         <h4 id="description">
           Reflection.<br>
           <br>
