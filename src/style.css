@@ -88,7 +88,7 @@ h1 {
 
 .three-model {
   /* Styling for project models */
-  display: flex;
+  display: block;
   justify-content: center;
   align-items: center;
 }
