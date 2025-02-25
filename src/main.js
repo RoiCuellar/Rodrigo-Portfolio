@@ -106,7 +106,7 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Assignment 03
         <div class="three-model">
-          <div id="model2"></div>
+          <div id="model1"></div>
         <a>
       </div>
       <div id="image-description">
@@ -134,6 +134,6 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-//createThreeScene("#model1", "/3DModels/project1/simple.obj");
+createThreeScene("#model1", "/3DModels/project1/portfolio.obj");
 //createThreeScene("#model2", "/3DModels/project2/closed.obj");
 createThreeScene("#model3", "/3DModels/project3/objpo.obj");
