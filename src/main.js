@@ -108,6 +108,7 @@ document.querySelector("#app").innerHTML = `
         </div>
         <div id="image-description">
           <div id="images"
+            </a>
             <a href="https://ca.pinterest.com/pin/950611433851028148" target="_blank">
               <img src="./images/chart.jpg" alt="chart" />
             </a>
